@@ -1,0 +1,1 @@
+export {useAccountQuery, useUpdateAccountMutation} from "@/entities/account/queries";
